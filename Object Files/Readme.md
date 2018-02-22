@@ -18,4 +18,6 @@ This remixing attempt is considered to be a failure and the initial 3D model pro
 
 (https://sketchfab.com/models/f61318f90a414b9b9ce1dd3143c1270f)
 
-For more thoughts see the Paradata
+For more thoughts, see the Paradata.
+
+Click through the photo files to see the edited images i was working with. 
