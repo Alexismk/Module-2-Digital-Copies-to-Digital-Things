@@ -1,5 +1,10 @@
 # Object Biography
 
+
+In addition to the biographical information about both Andy Warhol’s and his sculpture “Brillo Soap Pad Boxes (restated below),  I would also like to include a brief biography and history regarding the original Brillo Company, from which Andy Warhol took inspiration (or stole) for his artistic creations. 
+
+## A Brief History of "Brillo" - An America Cleaning Company 
+
 ## Andy Warhol, Brillo Soap Pads Boxes, 1964
 Category:  European and American Painting, Sculpture, and Decorative Arts
 
