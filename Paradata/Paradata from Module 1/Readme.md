@@ -1,7 +1,9 @@
-# Paradata
+# Paradata - Module 1
+
+#### RESTATED FOR REFERENCE AND EASY ACCESS
 
 
-### The reason I'm painting this way is that I want to be a machine, and I feel that whatever I do and do machine-like is what I want to do.
+### "The reason I'm painting this way is that I want to be a machine, and I feel that whatever I do and do machine-like is what I want to do."
 
 'What is Pop Art? Answers from 8 Painters', Part 1, G. R. Swenson, in Art News 62, November 1963
 
