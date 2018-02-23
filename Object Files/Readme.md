@@ -21,3 +21,8 @@ This remixing attempt is considered to be a failure and the initial 3D model pro
 For more thoughts, see the Paradata.
 
 Click through the photo files to see the edited images i was working with. 
+
+
+Below is a link to a 3D model of an original, older version of Brillo box. Not made availible to be dowloaded or used under creative commons license so I could not use this in my own model remix. 
+
+(https://sketchfab.com/models/e050d55c5e2a4461bbc1a0d42e639c8b)
