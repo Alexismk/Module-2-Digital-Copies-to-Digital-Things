@@ -7,20 +7,22 @@ In addition to the biographical information about both Andy Warhol’s and his s
 ## A Brief History of "Brillo" - An America Cleaning Company 
 
 
+
 The origins of “Brillo” began in the early 1900’s when an American cookware peddler and his jeweller brother in law discovered a solution to a widespread problem taking place in American households (Boyd, 2016).  Americans were enthralled by the advent of aluminum pots and pans, however it was quickly discovered that this new cookware blackened from coal fired stoves. The blackened pots and pans were considered to be nearly impossible to clean, that was until the American peddler discovered that jeweler's rouge, soap, and fine steel wool would work at cleaning aluminum cookware. He began selling these products to others for this purpose (Armaly, 2016).
 
 
 The Brillo Company was born when the peddler and a jeweller sought to patent this product. With the partnership of Milton Loeb, a lawyer,  the name Brillo, meaning ‘bright’ in Latin, was patented in 1913, and the company became known as the Brillo Manufacturing Company, with headquarter and productions operating out of Brooklyn New York (Armaly, 2016).
-Brillo began producing and selling steel wool scouring pads by the box, packaging 5 in a box, along with a bar of soap. The company moved to London Ohio in 1921 (Armaly, 2016).
+Brillo began producing and selling steel wool scouring pads in boxes, packaging 5 in a box, along with a bar of soap. The company moved production and headquarters to London, Ohio in 1921 (Armaly, 2016).
 
 
-In the early 1930s developed a method to put the bar of soap directly into the scrubbing pad itself, revolutionizing the company and brand. (Golec 52). In 1962, a rust resister was added in the production of the steel wool pads and was considered another revolutionary development that the company decided to redesigned the packaging (Golec 52). While Brillo had seen many box designs over the years, this one would be the most drastic, and would become the most iconic. The redesign in the 60s would be taken on by James Harvey from the design firm “Stuart and Gunn” who were also known for their work Bristol Myers and Nestle (Golec 52- 53). 
+In the early 1930s, Brillo developed a method to put the bar of soap directly into the scrubbing pad itself, revolutionizing the company and brand. (Golec 52). In 1962, a rust resister was added in the production of the steel wool pads. This was considered to be yet another revolutionary development, so much so that the company decided to redesign the packaging of their product (Golec 52). While Brillo had seen many box designs over the years, this one would be the most drastic, and would become the most iconic. The redesign in the 60s would be taken on by James Harvey from the design firm “Stuart and Gunn” who were also known for their work Bristol Myers and Nestle (Golec 52- 53). 
 
 
 The goal of the redesign was to promote greater visibility of the Brillo Pads amongst its commercial competitors. Harvey added graphic imagery and curved text, and opted for a basic and primary colour scheme to keep the packaging simple but eye-catching. The text and design were to be red and blue, printed on a yellow or white background, with the red, white, and blue colouring chosen to evoke patriotism and promise of domestic efficiency amidst the Cold War Era. Other design trends from the time that were implemented included adding new sales blurbs or premium labels on the boxes in order to “make the customers aware of the added value of a reputable brand” (Golec 52). It was this style of packaging, along with repetitive marketing, that pervaded super markets and advertising in the 1960s, and the transformation of the Brillo box represented the “ongoing transition of the visual culture of consumer products for the home in the United states” (Golec 53). The design and recognisability of Brillo soap pad boxes thus became synonymous with 1960s consumerism and was quickly adapted and repurposed by Andy Warhol. Warhol used representations of the box to critique both consumer society and notions or art and creativity.
 
 
-The Brillo brand would go on to one of Americans more recognizable and trusted brands in cleaning, used in households nationwide up until the modern day (Armaly, 2016).
+The Brillo brand would go on to one of Americans more recognizable and trusted brands in cleaning, used in households nationwide up until the modern day (Armaly, 2016). However since the 1960s, the history and representations of Brillo has been split into separate narratives; that of Brillo as a century old cleaning brands, and Brillo as an abstract art piece.  
+
 
 
 ## Andy Warhol, Brillo Soap Pads Boxes, 1964
