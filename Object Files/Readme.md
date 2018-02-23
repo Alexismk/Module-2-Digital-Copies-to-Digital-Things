@@ -14,13 +14,13 @@ Location: National Gallery of Canada
 
 Here you will find my attempt at combining Andy Warhol’s “Brillo Soap Pad Boxes” with images of an original yellow version of the Brillo box. The goal was to cover the open side, which was previously missing from the orginal 3D model, with images of the yellow Brillo Boxes superimposed on top in order to fill in the gap with a representaion of the commecial product the Warhol took inspiration from and reassert the commercial history of Brillo. 
 
-This remixing attempt is considered to be a failure and the initial 3D model produced an overall better creation. Howver, you can see portions of what remains of the yellow boxes sticking out from the sides.
+This remixing attempt is considered to be a failure and the initial 3D model produced an overall better creation. However, you can see portions of what remains of the yellow boxes sticking out from the sides.
 
 (https://sketchfab.com/models/f61318f90a414b9b9ce1dd3143c1270f)
 
 For more thoughts, see the Paradata.
 
-#### Click through the .png photo files uploaded to this file to see the edited images I was created. 
+#### Click through the .png photo files uploaded to this file to see the edited images I created. 
 
 
 
