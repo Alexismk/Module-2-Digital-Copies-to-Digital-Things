@@ -1,4 +1,4 @@
-# Paradata
+# Paradata - Module 2
 
 
 I had finished module 1 with a 3D model of Andy Warhol’s “Brillo Soap Pad Boxes. However, some problems I had encountered while generating the model where evident in the final piece. The repetitive nature of the sculpture’s surface confused the 3D modeling programming, resulting in the images of one entire side to be placed elsewhere, and leaving a void in their rightful place. The end result was a model that was complete from the front, but upon further inspection and manipulation, it is revealed that it is incomplete and empty on the other side. 
