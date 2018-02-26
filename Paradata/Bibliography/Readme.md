@@ -20,3 +20,6 @@ Jacob, Sam. 2016 The copy in contemporary culture is both despised and feared. d
 
 
 Reid, N., and Morphet R., (1971). Warhol. London: the Tate Galery.
+
+
+Yellow Brillo Box. Walker Art. https://walkerart.org/collections/artworks/yellow-brillo-box
