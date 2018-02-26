@@ -1,4 +1,16 @@
-# Paradata - Module 1
+# Paradata - Module 2
+
+
+I had finished module 1 with a 3D model of Andy Warhol’s “Brillo Soap Pad Boxes. However, some problems I had encountered while generating the model where evident in the final piece. The repetitive nature of the sculpture’s surface confused the 3D modeling programming, resulting in the images of one entire side to be placed elsewhere, and leaving a void in their rightful place. The end result was a model that was complete from the front, but upon further inspection and manipulation, it is revealed that it is incomplete and empty on the other side. 
+
+This got me thinking about one of my points that I made in module 1, that through his art piece, Warhol re-appropriated the meaning of the Brillo boxes themselves, changing its essential meaning and effectively erasing decades of Brillo’s pre-existing history as a well-known cleaning brand and imposing a new narrative and history. It was at this point that Brillo’s history diverged. On one hand, Brillo continued to be one of America’s most beloved cleaning brands. On the other hand, after Warhol appropriated the imagery, Brillo’s branding became more iconic and it came to represent a social and cultural critique of consumerism, a message that marked Warhol’s pop art career, and came to be associated with abstract and pop art in general. These histories seem separated from ach other, as each form is used and perceived differently depending on its context. However with my model, I feel as though there is an opportunity to combine these two narratives into one cohesive piece. 
+
+To me, the void in my 3D model represented a piece of Brillo’s history that was missing, and so my intention was to insert representations of the original Brillo box into my model of Warhol’s Brillo Boxes, in an attempt to reclaim the Brillo Company’s history, and merge it with the history of Andy Warhol’s artwork and complete the narrative.  The juxtaposition would force the viewer to acknowledge each aspects of Brillo’s history separately, while also questioning and contemplating notions of originality and the ownership of the Brillo brand. 
+
+
+
+
+## Module 1
 
 #### RESTATED FOR REFERENCE AND EASY ACCESS
 
